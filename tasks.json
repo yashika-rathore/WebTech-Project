@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1729686000000,
+    "title": "Complete Web Technologies Assignment",
+    "description": "Finish the task management system project with all CRUD operations",
+    "priority": "high",
+    "category": "College",
+    "dueDate": "2025-10-30",
+    "completed": false,
+    "createdAt": "2025-10-23T10:30:00.000Z"
+  },
+  {
+    "id": 1729686100000,
+    "title": "Study for Database Exam",
+    "description": "Review SQL queries, normalization, and ER diagrams",
+    "priority": "high",
+    "category": "Study",
+    "dueDate": "2025-10-28",
+    "completed": false,
+    "createdAt": "2025-10-23T10:35:00.000Z"
+  },
+  {
+    "id": 1729686200000,
+    "title": "Buy groceries",
+    "description": "Milk, bread, eggs, vegetables",
+    "priority": "medium",
+    "category": "Personal",
+    "dueDate": "2025-10-25",
+    "completed": true,
+    "createdAt": "2025-10-23T10:40:00.000Z"
+  },
+  {
+    "id": 1729686300000,
+    "title": "Prepare presentation for seminar",
+    "description": "Create slides on DOM manipulation and JavaScript events",
+    "priority": "medium",
+    "category": "College",
+    "dueDate": "2025-11-05",
+    "completed": false,
+    "createdAt": "2025-10-23T10:45:00.000Z"
+  },
+  {
+    "id": 1729686400000,
+    "title": "Call home",
+    "description": "",
+    "priority": "low",
+    "category": "Personal",
+    "dueDate": "",
+    "completed": false,
+    "createdAt": "2025-10-23T10:50:00.000Z"
+    }
+]

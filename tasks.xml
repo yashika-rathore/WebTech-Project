@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+  <task>
+    <id>1729686000000</id>
+    <title>Complete Web Technologies Assignment</title>
+    <description>Finish the task management system project with all CRUD operations</description>
+    <priority>high</priority>
+    <category>College</category>
+    <dueDate>2025-10-30</dueDate>
+    <completed>false</completed>
+    <createdAt>2025-10-23T10:30:00.000Z</createdAt>
+  </task>
+  
+  <task>
+    <id>1729686100000</id>
+    <title>Study for Database Exam</title>
+    <description>Review SQL queries, normalization, and ER diagrams</description>
+    <priority>high</priority>
+    <category>Study</category>
+    <dueDate>2025-10-28</dueDate>
+    <completed>false</completed>
+    <createdAt>2025-10-23T10:35:00.000Z</createdAt>
+  </task>
+  
+  <task>
+    <id>1729686200000</id>
+    <title>Buy groceries</title>
+    <description>Milk, bread, eggs, vegetables</description>
+    <priority>medium</priority>
+    <category>Personal</category>
+    <dueDate>2025-10-25</dueDate>
+    <completed>true</completed>
+    <createdAt>2025-10-23T10:40:00.000Z</createdAt>
+  </task>
+  
+  <task>
+    <id>1729686300000</id>
+    <title>Prepare presentation for seminar</title>
+    <description>Create slides on DOM manipulation and JavaScript events</description>
+    <priority>medium</priority>
+    <category>College</category>
+    <dueDate>2025-11-05</dueDate>
+    <completed>false</completed>
+    <createdAt>2025-10-23T10:45:00.000Z</createdAt>
+  </task>
+  
+  <task>
+    <id>1729686400000</id>
+    <title>Call home</title>
+    <description></description>
+    <priority>low</priority>
+    <category>Personal</category>
+    <dueDate></dueDate>
+    <completed>false</completed>
+    <createdAt>2025-10-23T10:50:00.000Z</createdAt>
+  </task>
+</tasks>
